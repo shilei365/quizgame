@@ -1,0 +1,170 @@
+{
+	"questions": [
+		{
+			"level": 0,
+			"text": "What is the square root of 4?",
+			"answers": [
+				"1",
+				"2",
+				"3",
+				"4"
+			],
+			"solution": 1
+		},
+		{
+			"level": 0,
+			"text": "What is the square root of 9?",
+			"answers": [
+				"1",
+				"2",
+				"3",
+				"4"
+			],
+			"solution": 2
+		},
+		{
+			"level": 0,
+			"text": "2+6/2=?",
+			"answers": [
+				
+				"2",
+				"3",
+				"4",
+				"5"
+			],
+			"solution": 3
+		},
+		{
+			"level": 0,
+			"text": "Which of these is not an animal?",
+			"answers": [
+				"Horse",
+				"Dog",
+				"Cat",
+				"Car"
+			],
+			"solution": 3
+		},
+		{
+			"level": 0,
+			"text": "What do we water to help them grow?",
+			"answers": [
+				"TV",
+				"Uncle",
+				"Plant",
+				"Toast"
+			],
+			"solution": 2
+		},
+		{
+			"level": 1,
+			"text": "Which river flows through the city of Berlin?",
+			"answers": [
+				"Nette",
+				"Oder",
+				"Havel",
+				"Briese"
+			],
+			"solution": 2
+		},
+		{
+			"level": 1,
+			"text": "Which is the capital of China?",
+			"answers": [
+				"Peking",
+				"Hongkong",
+				"Shanghai",
+				"Taiwan"
+			],
+			"solution": 0
+		},
+		{
+			"level": 1,
+			"text": "The largest land animal is?",
+			"answers": [
+				"Panther",
+				"Lion",
+				"Whale",
+				"African Elephant"
+			],
+			"solution": 3
+		},
+		{
+			"level": 1,
+			"text": "Which is the capital of France?",
+			"answers": [
+				"Brussels",
+				"Paris",
+				"Sofia",
+				"Rome"
+			],
+			"solution": 1
+		},
+		{
+			"level": 1,
+			"text": "Google (www.google.com) is a ___?",
+			"answers": [
+				"Number in Math",
+				"Chat service",
+				"Directory of images",
+				"Search Engine"
+			],
+			"solution": 3
+		},
+		{
+			"level": 2,
+			"text": "At which of the following sites would you most probably buy books?",
+			"answers": [
+				"amazon.com",
+				"msn.com",
+				"hotmail.com",
+				"sun.com"
+			],
+			"solution": 0
+		},
+		{
+			"level": 2,
+			"text": "Hematite and magnetite are ores of which metal?",
+			"answers": [
+				"Gold",
+				"Zinc",
+				"Iron",
+				"Silver"
+			],
+			"solution": 2
+		},
+		{
+			"level": 2,
+			"text": "Linux is ___ ?",
+			"answers": [
+				"Browser",
+				"Operating System",
+				"Server",
+				"Organization"
+			],
+			"solution": 1
+		},
+		{
+			"level": 2,
+			"text": "How many minutes are there in 4 and half-hours?",
+			"answers": [
+				"250",
+				"260",
+				"270",
+				"280"
+			],
+			"solution": 2
+		},
+		{
+			"level": 2,
+			"text": "The speed of your net access is defined in terms of __ ?",
+			"answers": [
+				"MHz",
+				"RAM",
+				"Megabytes",
+				"Kbps"
+			],
+			"solution": 2
+		}
+	]
+}
